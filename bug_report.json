@@ -1,1 +1,16 @@
-
+{
+   "ID":"",
+   "Summary":"",
+   "Incident Description":"",
+   "Pre-Conditions":"",
+   "Steps to reproduce":"",
+   "Actual result":"",
+   "Expected result":"",
+   "Environment":"",
+   "Build":"",
+   "Attempt to repeat":"",
+   "Impact":"",
+   "Severity":"",
+   "Priority":"",
+   "Attachment":""
+}
