@@ -1,6 +1,7 @@
 {
-"name": "Andrey",
-"age": 28,
-"pets": 1,
-"salary": 1000
+    "name": "Andrey",
+    "age": 28,
+    "pets": {"cat": "Marie",
+             "age": 6},
+    "salary": 1500
 }

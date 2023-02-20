@@ -1,8 +1,10 @@
 {
-"skill": "Postman",
-"skill": "CheckList",
-"skill": "BugReport",
-"skill": "Jmeter",
-"skill": "SQL",
-"skill": "Charles",
-"skill": "Mobile testing"
+    "skill": "Terminal",
+    "skill": "Postman",
+    "skill": "CheckList",
+    "skill": "BugReport",
+    "skill": "Jmeter",
+    "skill": "SQL",
+    "skill": "Charles",
+    "skill": "Mobile testing"
+}
